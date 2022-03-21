@@ -1,1 +1,2 @@
-# Airbnb evaluating the Impact of short rental regulations using Difference in Difference 
+# Airbnb 
+Evaluating the Impact of short rental regulations using Difference in Difference 
